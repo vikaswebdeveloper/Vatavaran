@@ -1,0 +1,12 @@
+body{
+    background-image: url(back.jpg);
+    background-size: cover;
+}
+
+.between{
+    border: none;
+}
+
+.text-start{
+    border: 0px;
+}
